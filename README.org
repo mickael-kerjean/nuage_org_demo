@@ -110,8 +110,8 @@ Waaaaazaaaah
 ** DONE [#B] Image and Links
 try to click in the different links and images :)
 *Images:*
-- external images: ![[https://raw.githubusercontent.com/mickael-kerjean/nuage/master/.assets/img/logo.png]]
-- internal images: ![[./test/background.png]]
+- external images: [[https://raw.githubusercontent.com/mickael-kerjean/nuage/master/.assets/img/logo.png]]
+- internal images: [[./test/background.png]]
 
 *Links:*
 - external link: [[http://mickael.kerjean.me][my website]]
