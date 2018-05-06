@@ -78,3 +78,52 @@ Waaaaazaaaah
   - [x] title
   - [x] numbered list
   - [x] item list
+- [x] Alt-Up
+  - [x] title
+  - [x] numbered list
+  - [x] item list
+- [x] Alt-Down
+  - [x] title
+  - [x] numbered list
+  - [x] item list
+- [x] Alt Shift Left
+  - [x] title
+- [x] Alt Shift Right
+  - [x] title
+- [x] Shift-Alt-Enter
+  - [x] title
+  - [x] numbered list
+  - [x] item list
+- [x] Shift-Left
+  - [x] title
+- [x] Shift-Right
+  - [x] title
+- [ ] C-c a a: Open agenda view
+- [ ] C-c a t: Open Todo view
+- [ ] C-c C-c
+  - [ ] checkbox
+- [X] click on a line number to fold/unfold
+- [X] click on the checkbox to toggle its state
+- [X] click on a priority to cycle
+
+* Other cool stuff   :cool:
+** DONE [#B] Image and Links
+try to click in the different links and images :)
+*Images:*
+- external images: ![[https://raw.githubusercontent.com/mickael-kerjean/nuage/master/.assets/img/logo.png]]
+- internal images: ![[./test/background.png]]
+
+*Links:*
+- external link: [[http://mickael.kerjean.me][my website]]
+- internal link: [[./small.org][another file]]
+
+** DONE click action straight on the text
+I tried to make things as usable as possible by having action directly on the text. Things like:
+- [X] Click on a checkbox to toggle
+- [X] Click on a priority to cycle
+- [X] Click on a TODO priority to cycle
+- [X] Click on a line number to toggle visiblity
+- [X] Click on the "*" in the title toggle the headline visibility
+
+** TODO encrypted headline and files
+That's not even a WIP but it would awesome to use GPG straight from here
