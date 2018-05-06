@@ -115,7 +115,7 @@ try to click in the different links and images :)
 
 *Links:*
 - external link: [[http://mickael.kerjean.me][my website]]
-- internal link: [[./small.org][another file]]
+- internal link: [[./test/small.org][another file]]
 
 ** DONE click action straight on the text
 I tried to make things as usable as possible by having action directly on the text. Things like:
