@@ -41,6 +41,7 @@ Wanna help? Come over and [[https://github.com/mickael-kerjean/nuage][contribute
 
 * General Emacs    :emacs:
 ** TODO [#B] Emacs general shortcut
+SCHEDULED: <2018-05-09 Wed>
 A decent amount of shortcut from emacs are already implement. What we did here is also getting some way to make things works great on mobile.
 
 /Note:/ some shortcut in chrome can't be overwritten by non apps: eg cut will close the current tab. The workaround is to make nuage an app: on chrome go to menu -> more tools -> add to desktop
@@ -58,7 +59,7 @@ Waaaaazaaaah
 2. are just
    1. awesome
 
-=Verbatim= ~code~ *bold* /italic/
+=Verbatim= ~code~ *bold* /italic/ +strike+
 
 - [X] Tab to fold/unfold
 - [X] click on the "*" char to fold/unfold headline
