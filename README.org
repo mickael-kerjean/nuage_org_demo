@@ -1,5 +1,3 @@
-#+TITLE: CONTENT 
-
 * Introduction
 This is nuage, a tentative to emulate the org mode goodness on the web making it the perfect companion for all those devices that lacks in openness and keyboards.
 /Note:/ Feel free to make changes and experiment, this document is reset every minutes anyway =;)=
