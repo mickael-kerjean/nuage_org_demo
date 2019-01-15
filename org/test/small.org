@@ -1,1 +1,1 @@
-There is nothing much here, go back to the [[/README.org][demo]]
+There is nothing much here, go back to the [[../README.org][demo]]
