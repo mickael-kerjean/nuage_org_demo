@@ -7,7 +7,7 @@ This is nuage, a tentative to emulate the org mode goodness on the web making it
 That's the equivalent of the =Shift-Tab= in emacs aka ~org-shifttab~: quite usefull on a mobile devices!
 If you're wondering how you can toggle one headline on a mobile device, simply click on the "*" char from the text or the line number =:)=
 
-** DONE [#A] Todos
+** DONE [#B] Todos
 As you'd expect, the todo view gives you all the =TODO= stuff in your currently open org document. A few things about it:
 - tags inheritance is working
 - you can create subtasks by using the the checkbox thinghy like: 
