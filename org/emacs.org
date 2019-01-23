@@ -14,4 +14,4 @@ More than creating wikis, filestash can also be use to manage:
 - [[./docs/notes-docs.org][Notes & Docs]]
 - [[./docs/tasks-projects.org][Tasks & Projects]]
 
-/Note:/ this page is an interactive wiki showcasing the capabilities of org mode and filestash, click on the links to get to know more
+/Note:/ this page is an interactive wiki showcasing the capabilities of org mode using filestash, click on the links to get to know more
