@@ -1,6 +1,8 @@
 #+TITLE: Notes & Docs
 
-This document gives a better overview of some org-mode features that you can use to take notes and create awesome documents. To see how everything integrates within filestash, the reader is advise to follow his reading from the filestash org-mode client accessible [[http://demo.filestash.app/s/wiki?next=/view/docs/notes-docs.org][here]]
+The reader is advise to read this document via the filestash org-mode client accessible [[http://demo.filestash.app/s/wiki?next=/view/docs/notes-docs.org][here]]
+
+This document gives an overview of some org-mode features that you can use to take notes and create awesome documents. To see how everything integrates within filestash, 
 
 * Creating content
 
