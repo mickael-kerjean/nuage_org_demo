@@ -12,7 +12,7 @@ Org mode is a great tool for making documentation. Behind its simplistic model o
 - [X] insert some images in your page [[../assets/background.png]]. Click on the image tag will open the preview inside the org document
 - [X] create some private note in your document that won't get exported
 #+BEGIN_COMMENT
-that mean that this here won't appear in the exported version of your document
+This content is used a comment and won't get exported. Also you can use the :noexport: tag on a headline
 #+END_COMMENT
 - [ ] a full fledge development environment like the Jupiter notebook in Python but with any language you need
 
