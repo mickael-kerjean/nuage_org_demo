@@ -1,4 +1,5 @@
-* Introduction
+#+TITLE: Introduction
+#+OPTIONS: toc:nil
 
 Filestash is a web client for your org-mode documents. It started as its author believe emacs and org-mode is the greatest thing since sliced bread. Filestash is aiming to fix the pain points org-mode's users may have:
 - emacs isn't very usable without a real keyboard
@@ -8,4 +9,4 @@ In the same way as org mode, filestash can be used for:
 - [[./notes-docs.org][Notes & Docs]]
 - [[./tasks-projects.org][Tasks & Projects]]
 
-/Notes:/ This document you are reading was rendered by emacs using org-mode and is hosted [[https://github.com/mickael-kerjean/nuage_org_demo][on github]]. 
+/Notes:/ This document you are reading is hosted [[https://github.com/mickael-kerjean/nuage_org_demo][on github]] and was rendered by emacs using org-mode. As such it is available on a variety of format: html, pdf, txt, latex, markdown, open office, beamer, ical
