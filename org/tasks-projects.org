@@ -12,3 +12,8 @@ A headline starting with a TODO is considered a task in your TODO list. Click on
 Tag inheritance should be working fine. 
 *** TODO special tags       :noexport:
 the =noexport= tag tells emacs it shouldn't export the entire subtree
+** Your TODO list
+In the menubar you should see a few icons. Clicking on the list button will give you all the todo in the current document, clicking on a task will also toggle its status. You also have access to a few options to navigate to a certain task or put the task in your agenda by setting either a SCHEDULE of a DEADLINE date.
+* Agenda
+** Introduction
+The agenda in filestash will give you access to all the headline containing a time.
