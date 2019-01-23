@@ -9,7 +9,7 @@ Org mode is a great tool for making documentation. Behind its simplistic model o
 - [X] headline toggle by pressing the tab key of your keyboard
 - [X] create links to navigate between different pages. For example: [[./emacs.org][go back to the homepage]]
 - [X] publish your documentation to form entire wikis available in many different format ([[http://demo.filestash.app/api/export/wiki/text/html/org/emacs.org][html]], [[http://demo.filestash.app/api/export/wiki/application/pdf/org/emacs.org][pdf]], [[http://demo.filestash.app/api/export/wiki/text/latex/org/emacs.org][latex]], [[http://demo.filestash.app/api/export/wiki/text/plain/org/emacs.org][html]], ...). Filestash extends this principle by letting you create different ACL (uploader, viewer or editor) and provide different restriction: password protected, expiration date or restrict to different users
-- [X] insert some images in your page [[../assets/background.png]]. Click on the link to open the image inside the document
+- [X] insert some images in your page [[../assets/background.png]]. Click on the image will open the preview inside the org document
 - [X] create some private note in your document that won't get exported
 #+BEGIN_COMMENT
 that mean that this here won't appear in the exported version of your document
