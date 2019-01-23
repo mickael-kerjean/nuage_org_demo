@@ -39,3 +39,7 @@ DEADLINE: <2018-01-05 Mon+1y>
 
 * Project secret
 Another handy feature of org mode is to encrypt entire document or a headline using GPG. Unfortunatly this feature is not yet available in Filestash but pull request are welcome =:)=
+
+* What now?
+
+Go back to the [[./README.org][homepage and explore]]
