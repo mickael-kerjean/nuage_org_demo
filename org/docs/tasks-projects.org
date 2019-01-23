@@ -43,4 +43,4 @@ Another handy feature of org mode is to encrypt entire document or a headline us
 
 * What now?
 
-Go back to the [[./README.org][homepage and explore]]
+Go back to the [[../emacs.org][homepage and explore]]
