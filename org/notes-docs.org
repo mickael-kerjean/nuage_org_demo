@@ -6,7 +6,7 @@ Org mode is a great tool for making documentation. Behind its simplistic model o
 
 - [X] headline toggle by pressing the tab key of your keyboard
 - [X] create links to navigate between different pages. For example: [[./README.org][go back to the homepage]]
-- [X] publish your documentation to form entire wikis available in many different format (html, pdf, latex, txt, odt, ...). Filestash extend this principle by letting you create different ACL (uploader, viewer or editor) and provide different restriction: password protected, expiration date or restrict to different users
+- [X] publish your documentation to form entire wikis available in many different format (html, pdf, latex, txt, odt, ...). Filestash extends this principle by letting you create different ACL (uploader, viewer or editor) and provide different restriction: password protected, expiration date or restrict to different users
 - [X] insert some images in your page [[./test/background.png]]
 - [X] create some private note in your document that won't get exported
 #+BEGIN_COMMENT
@@ -81,7 +81,7 @@ A decent amount of shortcut from emacs are already implement. What we did here i
 - [X] click on the checkbox to toggle its state
 - [X] click on a priority to cycle
 
-/Note:/ some shortcut in chrome can't be overwritten by non apps: eg cut will close the current tab. The workaround is to make nuage an app: on chrome go to menu -> more tools -> add to desktop
+/Note:/ some shortcuts in chrome can't be overwritten by non apps: eg cut will close the current tab. The workaround is to make nuage an app: on chrome go to menu -> more tools -> add to desktop
 
 * What now?
 
