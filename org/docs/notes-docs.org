@@ -19,9 +19,9 @@ This content is used a comment and won't get exported. Also you can use the :noe
 
 * The org mode syntax
 :PROPERTIES:
-:WTF:      wazaaaahhhhhhhhhhh
+:HELLO:      HEEEEELLLOOOOOOOOO
 :END:
-If you read this section, make sure you do so from the [[https://demo.filestash.app/api/export/wiki/text/org/org/notes-docs.org][original org-mode]] version as the rendered form will be weird to read. This above is called a [[https://orgmode.org/manual/Drawers.html][drawer]]
+This above is called a [[https://orgmode.org/manual/Drawers.html][drawer]]
 
 Filestash also support org-mode comments:
 #+BEGIN_COMMENT
