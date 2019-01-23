@@ -8,4 +8,4 @@ In the same way as org mode, filestash can be used for:
 - [[./notes-docs.org][Notes & Docs]]
 - [[./tasks-projects.org][Tasks & Projects]]
 
-/Notes:/ This document you are reading was made with org-mode and is hosted [[https://github.com/mickael-kerjean/nuage_org_demo][on github]]. 
+/Notes:/ This document you are reading was rendered by emacs using org-mode and is hosted [[https://github.com/mickael-kerjean/nuage_org_demo][on github]]. 
