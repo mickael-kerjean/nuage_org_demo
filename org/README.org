@@ -10,5 +10,3 @@ As an org mode client, Filestash can do a whole lot of cool stuff. For example, 
 More than creating wiki, filestash can also be use to manage:
 - [[./notes-docs.org][Notes & Docs]]
 - [[./tasks-projects.org][Tasks & Projects]]
-
-/Notes:/ 
