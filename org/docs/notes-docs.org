@@ -14,7 +14,7 @@ Org mode is a great tool for making documentation. Behind its simplistic model o
 #+BEGIN_COMMENT
 This content is used a comment and won't get exported. Also you can use the :noexport: tag on a headline
 #+END_COMMENT
-- [ ] a full fledge development environment like the Jupiter notebook in Python but with any language you need
+- [ ] a full fledge development environment like the Jupiter notebook in Python but with any language you need. Unfortunatly this feature can't be a part of filestash as we can't trust our users enough to execute code on our servers ...
 
 
 * The org mode syntax
