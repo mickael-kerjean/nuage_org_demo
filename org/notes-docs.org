@@ -80,3 +80,7 @@ A decent amount of shortcut from emacs are already implement. What we did here i
 - [X] click on a priority to cycle
 
 /Note:/ some shortcut in chrome can't be overwritten by non apps: eg cut will close the current tab. The workaround is to make nuage an app: on chrome go to menu -> more tools -> add to desktop
+
+* What now?
+
+Go back to the [[./README.org][homepage and explore]]
