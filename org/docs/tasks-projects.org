@@ -6,7 +6,8 @@ Org mode has a numbered of feature aimed to manage projects.
 ** Introduction
 Org mode can be seen as an application to manage your TODOS
 ** TODO Write about todo in org-mode
-A headline starting with a TODO is considered a task in your TODO list. Click on a task will change its status
+A headline starting with a TODO is considered a task in your TODO list. You can click on the todo keyword to change its status
+
 ** DOING write about tags             :test:
 *** TODO nested tags              :nested:
 Tag inheritance should be working fine. 
