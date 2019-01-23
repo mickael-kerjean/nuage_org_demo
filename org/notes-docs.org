@@ -2,16 +2,18 @@
 
 * Creating content
 
-Org mode is a great tool for making documentation. Behing its simplistic model of everything is text, it allows for a lot of features that make your experience better:
+Org mode is a great tool for making documentation. Behind its simplistic model of everything is text, it allows for a lot of features that make your experience better:
 
 - [X] headline toggle by pressing the tab key of your keyboard
 - [X] create links to navigate between different pages. For example: [[./README.org][go back to the homepage]]
+- [X] publish your documentation to form entire wikis available in many different format (html, pdf, latex, txt, odt, ...). Filestash extend this principle by letting you create different ACL (uploader, viewer or editor) and provide different restriction: password protected, expiration date or restrict to different users
 - [X] insert some images in your page [[./test/background.png]]
 - [X] create some private note in your document that won't get exported
 #+BEGIN_COMMENT
 that mean that this here won't appear in the exported version of your document
 #+END_COMMENT
 - [ ] a full fledge development environment like the Jupiter notebook in Python but with any language you need
+
 
 * The org mode syntax
 :PROPERTIES:
