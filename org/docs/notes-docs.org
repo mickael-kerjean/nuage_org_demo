@@ -21,13 +21,11 @@ This content is used a comment and won't get exported. Also you can use the :noe
 :PROPERTIES:
 :HELLO:      HEEEEELLLOOOOOOOOO
 :END:
-This above is called a [[https://orgmode.org/manual/Drawers.html][drawer]]
+This above is called a [[https://orgmode.org/manual/Drawers.html][drawer]], you can click on the properties key and it will show whatever it contains. For more info about drawers, see [[https://orgmode.org/manual/Drawers.html][here]]
 
-Filestash also support org-mode comments:
 #+BEGIN_COMMENT
 Waaaaazaaaah
 #+END_COMMENT
-
 
 1. numbered list
 2. are just
