@@ -5,7 +5,7 @@ Filestash (formerly nuage) is a web client for your org-mode documents. It start
 - emacs isn't great out of the desktop world
 - not everyone is willing to go through learning emacs which makes org-mode a hard to sell tool to manage team project. 
 
-As an org mode client, Filestash can do a whole lot of cool stuff. For example, this document you are reading is hosted as an org mode file hosted on a private repo on github. It was rendered to html by emacs using org-mode. As such it is available on a variety of format: html, pdf, txt, latex, markdown, open office, beamer, ical
+As an org mode client, Filestash can do a whole lot of cool stuff. For example, this document you are reading is hosted as an org mode file hosted on a private repo on github. It was rendered to html by emacs using org-mode. As such it is available on a variety of format: html, pdf, txt, latex, markdown, open office, beamer, ical.
 
 More than creating wiki, filestash can also be use to manage:
 - [[./notes-docs.org][Notes & Docs]]
