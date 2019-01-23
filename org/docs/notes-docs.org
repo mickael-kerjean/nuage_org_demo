@@ -85,7 +85,7 @@ A decent amount of shortcut from emacs are already implement. What we did here i
 - [X] click on the checkbox to toggle its state
 - [X] click on a priority to cycle
 
-/Note:/ some shortcuts in chrome can't be overwritten by non apps: eg cut will close the current tab. The workaround is to make nuage an app: on chrome go to menu -> more tools -> add to desktop
+/Note:/ Some shortcuts might not be usable if you access it from your browser, so things like cut with CTRL+W might close your tab. The workaround is to make nuage an app: on chrome go to menu -> more tools -> add to desktop
 
 * What now?
 
