@@ -16,4 +16,7 @@ the =noexport= tag tells emacs it shouldn't export the entire subtree
 In the menubar you should see a few icons. Clicking on the list button will give you all the todo in the current document, clicking on a task will also toggle its status. You also have access to a few options to navigate to a certain task or put the task in your agenda by setting either a SCHEDULE of a DEADLINE date.
 * Agenda
 ** Introduction
-The agenda in filestash will give you access to all the headline containing a time.
+The agenda in filestash will give you access to all the headline containing a time. A time in org-mode takes different form:
+- an active time: <2018-05-05 Sat>
+- an inactive time: [2018-05-05 Sat]
+- a recurrent time <2018-05-05 Sat +1w>
