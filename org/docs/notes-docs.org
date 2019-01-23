@@ -1,11 +1,13 @@
 #+TITLE: Notes & Docs
 
+To get a better understanding of some of the features in org mode, you should access this document from [][here]
+
 * Creating content
 
 Org mode is a great tool for making documentation. Behind its simplistic model of everything is text, it allows for a lot of features that make your experience better:
 
 - [X] headline toggle by pressing the tab key of your keyboard
-- [X] create links to navigate between different pages. For example: [[./README.org][go back to the homepage]]
+- [X] create links to navigate between different pages. For example: [[./emacs.org][go back to the homepage]]
 - [X] publish your documentation to form entire wikis available in many different format (html, pdf, latex, txt, odt, ...). Filestash extends this principle by letting you create different ACL (uploader, viewer or editor) and provide different restriction: password protected, expiration date or restrict to different users
 - [X] insert some images in your page [[./test/background.png]]
 - [X] create some private note in your document that won't get exported
