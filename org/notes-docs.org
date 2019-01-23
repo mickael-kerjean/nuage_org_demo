@@ -17,7 +17,7 @@ that mean that this here won't appear in the exported version of your document
 :PROPERTIES:
 :WTF:      wazaaaahhhhhhhhhhh
 :END:
-This above is called a [[https://orgmode.org/manual/Drawers.html][drawer]]
+If you read this page, make sure you see the [[https://demo.filestash.app/api/export/wiki/text/org/org/notes-docs.org][org-mode]] version of it as the rendered will be hard to understand. This above is called a [[https://orgmode.org/manual/Drawers.html][drawer]]
 
 Filestash also support org-mode comments:
 #+BEGIN_COMMENT
