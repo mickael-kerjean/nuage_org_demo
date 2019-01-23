@@ -85,4 +85,4 @@ A decent amount of shortcut from emacs are already implement. What we did here i
 
 * What now?
 
-Go back to the [[./README.org][homepage and explore]]
+Go back to the [[../emacs.org][homepage and explore]]
