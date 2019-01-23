@@ -5,8 +5,6 @@ Org mode has a numbered of feature aimed to manage projects.
 * Creating todos
 ** Introduction
 Org mode can be seen as an application to manage your TODOS
-** TODO [#A] Write about priorities in org-mode
-
 ** TODO Write about todo in org-mode
 A headline starting with a TODO is considered a task in your TODO list. Click on a task will change its status
 ** DOING write about tags             :test:
@@ -14,6 +12,13 @@ A headline starting with a TODO is considered a task in your TODO list. Click on
 Tag inheritance should be working fine. 
 *** TODO special tags       :noexport:
 the =noexport= tag tells emacs it shouldn't export the entire subtree
+** TODO [#A] Write about priorities in org-mode
+Priorities in org mode can be:
+- high: [#A]
+- medium: [#B]
+- low: [#C]
+Those will appear in your TODO list with different colors
+
 ** Your TODO list
 In the menubar you should see a few icons. Clicking on the list button will give you all the todo in the current document, clicking on a task will also toggle its status. You also have access to a few options to navigate to a certain task or put the task in your agenda by setting either a SCHEDULE of a DEADLINE date.
 * Agenda
@@ -22,4 +27,14 @@ The agenda in filestash will give you access to all the headline containing a ti
 - an active time: <2018-05-05 Sat>
 - an inactive time: [2018-05-05 Sat]
 - a recurrent time <2018-05-05 Sat +1w>
-** TODO 
+
+Orgmode also provide 2 keywords to create your agenda: =SCHEDULED= and =DEADLINE=
+** TODO Stand up meeting
+SCHEDULED: <2018-01-01 Mon+1w>
+** TODO Send gift for the birthday of my father
+DEADLINE: <2018-01-05 Mon+1y>
+
+
+
+* Project secret
+Another handy feature of org mode is to encrypt entire document or a headline using GPG. Unfortunatly this feature is not yet available in Filestash but pull request are welcome =:)=
