@@ -5,16 +5,9 @@ Org mode has a numbered of feature aimed to manage projects.
 * Creating todos
 ** Introduction
 Org mode can be seen as an application to manage your TODOS
-** TODO Create a thats-the-joke function
-#+BEGIN_SRC
-(defun thats-the-joke ()
-  "Helper function."
-  (interactive)
-  (message "%s: that's the joke." (read-string "What did they say? ")))
-#+END_SRC
-A headline starting with a TODO is considered a task in your TODO list
+** TODO Write about todo in org-mode
+A headline starting with a TODO is considered a task in your TODO list. Click on a task will change its status
 ** DOING write about tags             :test:
-
 *** TODO nested tags              :nested:
 Tag inheritance should be working fine. 
 *** TODO special tags       :noexport:
