@@ -31,6 +31,9 @@ The agenda in filestash will give you access to all the headline containing a ti
 Orgmode also provide 2 keywords to create your agenda: =SCHEDULED= and =DEADLINE=
 ** TODO Stand up meeting
 SCHEDULED: <2018-01-01 Mon+1w>
+*** Note from the meeting of xxxxx
+just put some note in here if you want
+
 ** TODO Send gift for the birthday of my father
 DEADLINE: <2018-01-05 Mon+1y>
 
