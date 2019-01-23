@@ -2,7 +2,7 @@
 #+OPTIONS: toc:nil
 
 Filestash (formerly nuage) is a web client for your org-mode documents. It started as its author believe emacs and org-mode are the greatest thing since sliced bread. Filestash is aiming to fix the pain points org-mode's users may have:
-- emacs isn't very usable without a real keyboard
+- emacs isn't great out of the desktop world
 - not everyone is willing to go through learning emacs which makes org-mode a hard to sell tool to manage team project. 
 
 In the same way as org mode, filestash can be used for:
