@@ -5,6 +5,8 @@ Org mode has a numbered of feature aimed to manage projects.
 * Creating todos
 ** Introduction
 Org mode can be seen as an application to manage your TODOS
+** TODO [A#] Write about priorities in org-mode
+
 ** TODO Write about todo in org-mode
 A headline starting with a TODO is considered a task in your TODO list. Click on a task will change its status
 ** DOING write about tags             :test:
@@ -20,3 +22,4 @@ The agenda in filestash will give you access to all the headline containing a ti
 - an active time: <2018-05-05 Sat>
 - an inactive time: [2018-05-05 Sat]
 - a recurrent time <2018-05-05 Sat +1w>
+** TODO 
