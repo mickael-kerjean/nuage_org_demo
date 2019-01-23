@@ -10,7 +10,7 @@ A headline starting with a TODO is considered a task in your TODO list. Click on
 ** DOING write about tags             :test:
 *** TODO nested tags              :nested:
 Tag inheritance should be working fine. 
-*** TODO special tags       :noexport:
+*** DONE special tags       :noexport:
 the =noexport= tag tells emacs it shouldn't export the entire subtree
 ** TODO [#A] Write about priorities in org-mode
 Priorities in org mode can be:
